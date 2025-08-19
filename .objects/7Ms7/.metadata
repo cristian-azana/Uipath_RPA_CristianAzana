@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Firefox  Guía Telefónica CNT EP ",
+  "Type": "App",
+  "Id": "7Ms73m2OAEydqP5RRfBaEA",
+  "Reference": "FCEXIXudVUW99U3NCebTTg/7Ms73m2OAEydqP5RRfBaEA",
+  "Created": "2025-08-16T22:44:30.6748174Z",
+  "Updated": "2025-08-16T22:44:30.6748174Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

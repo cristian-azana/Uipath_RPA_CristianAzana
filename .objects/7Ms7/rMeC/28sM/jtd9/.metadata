@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Extraer datos de tabla",
+  "Type": "Element",
+  "Id": "jtd9loqdUkqwdPVjK0ZcYA",
+  "Reference": "FCEXIXudVUW99U3NCebTTg/jtd9loqdUkqwdPVjK0ZcYA",
+  "ParentRef": "FCEXIXudVUW99U3NCebTTg/28sMC_iK90qJ2BqA2hw5pQ",
+  "Created": "2025-08-17T03:26:43.199118Z",
+  "Updated": "2025-08-17T03:26:43.199118Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
