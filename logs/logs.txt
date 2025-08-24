@@ -103,3 +103,229 @@
 19/08/25 11:56:32 Finalizo el envio del correo electronico
 19/08/25 11:56:32 El proceso a finalizado correctamente (100%) !!!!!
 19/08/25 11:56:35El proceso finalizo en:  00:01:06.5959816
+22/08/25 15:19:26  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:20:30  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:20:32  Comienza proceso en navegador WEB 
+22/08/25 15:29:25  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:29:58  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:29:59  Comienza proceso en navegador WEB 
+22/08/25 15:31:46  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:32:07  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:32:09  Comienza proceso en navegador WEB 
+22/08/25 15:32:15  Comienza solucion de captcha 
+22/08/25 15:32:19  Finalizacion de solucion de captcha 
+22/08/25 15:32:19 Inicia extraccion de tabla 
+22/08/25 15:33:26  Finaliza extraccion de tabla
+22/08/25 15:33:26 Inicia proceso en excel
+22/08/25 15:38:46  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:39:09  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:39:10  Comienza proceso en navegador WEB 
+22/08/25 15:39:18  Comienza solucion de captcha 
+22/08/25 15:39:22  Finalizacion de solucion de captcha 
+22/08/25 15:39:22 Inicia extraccion de tabla 
+22/08/25 15:39:56  Finaliza extraccion de tabla
+22/08/25 15:39:56 Inicia proceso en excel
+22/08/25 15:39:59 Finaliza proceso en excel
+22/08/25 15:39:59 Inicia proceso para renombrar el archivo
+22/08/25 15:39:59El proceso finalizo en:  00:00:49.7580017
+22/08/25 15:51:26  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:51:55  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 15:51:56  Comienza proceso en navegador WEB 
+22/08/25 15:52:05  Comienza solucion de captcha 
+22/08/25 15:52:09  Finalizacion de solucion de captcha 
+22/08/25 15:52:09 Inicia extraccion de tabla 
+22/08/25 15:52:43  Finaliza extraccion de tabla
+22/08/25 15:52:43 Inicia proceso en excel
+22/08/25 15:52:46 Finaliza proceso en excel
+22/08/25 15:52:46 Inicia proceso para renombrar el archivo
+22/08/25 15:52:46El proceso finalizo en:  00:00:50.2036681
+22/08/25 15:52:50 Inicia proceso envio correo
+22/08/25 15:52:50 Suma de valores encontrados
+22/08/25 15:52:51 Inicia el envio del correo electronico
+22/08/25 15:52:54 Finalizo el envio del correo electronico
+22/08/25 15:52:54 El proceso a finalizado correctamente (100%) !!!!!
+22/08/25 21:05:47  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 21:07:34  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+22/08/25 21:07:35  Comienza proceso en navegador WEB 
+22/08/25 21:07:44  Comienza solucion de captcha 
+22/08/25 21:07:49  Finalizacion de solucion de captcha 
+22/08/25 21:07:49 Inicia extraccion de tabla 
+22/08/25 21:08:23  Finaliza extraccion de tabla
+22/08/25 21:08:24 Inicia proceso en excel
+22/08/25 21:08:30 Finaliza proceso en excel
+22/08/25 21:08:30 Inicia proceso para renombrar el archivo
+22/08/25 21:08:30El proceso finalizo en:  739484.21:08:30.6202628
+22/08/25 21:08:34 Inicia proceso envio correo
+22/08/25 21:08:34 Suma de valores encontrados
+22/08/25 21:08:36 Inicia el envio del correo electronico sin contactos
+22/08/25 21:08:39 Finalizo el envio del correo electronico sin contactos
+22/08/25 21:08:39El proceso finalizo en:  00:02:54.0500048
+22/08/25 21:08:39 El proceso a finalizado correctamente (100%) !!!!!
+23/08/25 06:47:52  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 06:48:31  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 06:48:32  Comienza proceso en navegador WEB 
+23/08/25 06:48:43  Comienza solucion de captcha 
+23/08/25 06:48:47  Finalizacion de solucion de captcha 
+23/08/25 06:48:47 Inicia extraccion de tabla 
+23/08/25 06:49:21  Finaliza extraccion de tabla
+23/08/25 06:49:21 Inicia proceso para renombrar el archivo
+23/08/25 06:49:21 El archivo se renombro con exito !!
+23/08/25 06:49:22 Inicia proceso en excel
+23/08/25 06:49:31 Finaliza proceso en excel
+23/08/25 06:49:32 Inicia proceso envio correo
+23/08/25 06:49:32 Suma de valores encontrados
+23/08/25 06:49:34 Inicia el envio del correo electronico
+23/08/25 06:49:37 Finalizo el envio del correo electronico
+23/08/25 06:49:37El proceso finalizo en:  00:01:49.6272922
+23/08/25 06:49:37 El proceso a finalizado correctamente (100%) !!!!!
+23/08/25 07:10:42  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 07:11:04  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 07:11:05  Comienza proceso en navegador WEB 
+23/08/25 07:11:11  Comienza solucion de captcha 
+23/08/25 07:11:15  Finalizacion de solucion de captcha 
+23/08/25 07:11:15 Inicia extraccion de tabla 
+23/08/25 07:11:50  Finaliza extraccion de tabla
+23/08/25 07:11:50 Inicia proceso para renombrar el archivo
+23/08/25 07:11:50 El archivo se renombro con exito !!
+23/08/25 07:11:50 Inicia proceso en excel
+23/08/25 11:18:41  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 11:22:01  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 11:22:02  Comienza proceso en navegador WEB 
+23/08/25 11:22:17  Comienza solucion de captcha 
+23/08/25 11:22:22  Finalizacion de solucion de captcha 
+23/08/25 11:22:22 Inicia extraccion de tabla 
+23/08/25 11:22:58  Finaliza extraccion de tabla
+23/08/25 11:22:59 Inicia proceso para renombrar el archivo
+23/08/25 11:22:59 El archivo se renombro con exito !!
+23/08/25 11:22:59 Inicia proceso en excel
+23/08/25 11:25:37  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 11:26:31  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 11:26:32  Comienza proceso en navegador WEB 
+23/08/25 11:26:38  Comienza solucion de captcha 
+23/08/25 11:26:41  Finalizacion de solucion de captcha 
+23/08/25 11:26:41 Inicia extraccion de tabla 
+23/08/25 11:27:16  Finaliza extraccion de tabla
+23/08/25 11:27:17 Inicia proceso para renombrar el archivo
+23/08/25 12:15:36 Inicia proceso en excel
+23/08/25 12:16:06  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 12:24:45  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 12:24:46  Comienza proceso en navegador WEB 
+23/08/25 12:24:53  Comienza solucion de captcha 
+23/08/25 12:24:57  Finalizacion de solucion de captcha 
+23/08/25 12:24:57 Inicia extraccion de tabla 
+23/08/25 12:25:49  Finaliza extraccion de tabla
+23/08/25 12:25:49 Inicia proceso para renombrar el archivo
+23/08/25 14:31:35  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 14:33:24  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 14:33:25  Comienza proceso en navegador WEB 
+23/08/25 14:33:32  Comienza solucion de captcha 
+23/08/25 14:33:36  Finalizacion de solucion de captcha 
+23/08/25 14:33:36 Inicia extraccion de tabla 
+23/08/25 14:34:10  Finaliza extraccion de tabla
+23/08/25 14:34:11 Inicia proceso para renombrar el archivo
+23/08/25 14:34:11 El archivo se renombro con exito !!
+23/08/25 14:34:11 Inicia proceso en excel
+23/08/25 14:34:59 Finaliza proceso en excel
+23/08/25 14:34:59 Inicia proceso envio correo
+23/08/25 14:34:59 Suma de valores encontrados
+23/08/25 14:35:00 Inicia el envio del correo electronico sin contactos
+23/08/25 14:35:03 Finalizo el envio del correo electronico sin contactos
+23/08/25 14:35:03El proceso finalizo en:  00:03:31.6981144
+23/08/25 14:35:03 El proceso a finalizado correctamente (100%) !!!!!
+23/08/25 14:50:42  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 14:51:30  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 14:51:32  Comienza proceso en navegador WEB 
+23/08/25 14:51:44  Comienza solucion de captcha 
+23/08/25 14:51:48  Finalizacion de solucion de captcha 
+23/08/25 14:51:48 Inicia extraccion de tabla 
+23/08/25 14:52:10  Finaliza extraccion de tabla
+23/08/25 14:52:10 Inicia proceso para renombrar el archivo
+23/08/25 15:02:03  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:02:24  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:02:25  Comienza proceso en navegador WEB 
+23/08/25 15:03:53  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:05:09  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:05:10  Comienza proceso en navegador WEB 
+23/08/25 15:05:21  Comienza solucion de captcha 
+23/08/25 15:05:25  Finalizacion de solucion de captcha 
+23/08/25 15:05:25 Inicia extraccion de tabla 
+23/08/25 15:05:59  Finaliza extraccion de tabla
+23/08/25 15:06:00 Inicia proceso en excel
+23/08/25 15:06:00 Finaliza proceso en excel
+23/08/25 15:12:37  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:13:16  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:13:18  Comienza proceso en navegador WEB 
+23/08/25 15:13:29  Comienza solucion de captcha 
+23/08/25 15:13:33  Finalizacion de solucion de captcha 
+23/08/25 15:13:33 Inicia extraccion de tabla 
+23/08/25 15:13:54  Finaliza extraccion de tabla
+23/08/25 15:13:55 Inicia proceso para renombrar el archivo
+23/08/25 15:13:55 El archivo se renombro con exito !!
+23/08/25 15:13:55 Inicia proceso en excel
+23/08/25 15:13:56 Finaliza proceso en excel
+23/08/25 15:13:56 Inicia proceso envio correo
+23/08/25 15:13:56 Suma de valores encontrados
+23/08/25 15:21:18  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:21:55  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 15:21:56  Comienza proceso en navegador WEB 
+23/08/25 15:22:09  Comienza solucion de captcha 
+23/08/25 15:22:13  Finalizacion de solucion de captcha 
+23/08/25 15:22:13 Inicia extraccion de tabla 
+23/08/25 15:22:52  Finaliza extraccion de tabla
+23/08/25 15:22:52 Inicia proceso para renombrar el archivo
+23/08/25 15:22:52 El archivo se renombro con exito !!
+23/08/25 15:22:52 Inicia proceso en excel
+23/08/25 15:22:53 Finaliza proceso en excel
+23/08/25 15:22:53 Inicia proceso envio correo
+23/08/25 15:22:53 Suma de valores encontrados
+23/08/25 15:22:54 Inicia el envio del correo electronico
+23/08/25 15:22:56 Finalizo el envio del correo electronico
+23/08/25 15:22:56El proceso finalizo en:  00:01:41.3429636
+23/08/25 15:22:56 El proceso a finalizado correctamente (100%) !!!!!
+23/08/25 16:14:50  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 18:00:58  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 18:01:45  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 18:01:46  Comienza proceso en navegador WEB 
+23/08/25 18:02:27 El captcha no se resolvio se ejecutara nuevamente
+23/08/25 18:02:28  Comienza proceso en navegador WEB 
+23/08/25 18:03:06 El captcha no se resolvio se ejecutara nuevamente
+23/08/25 18:03:07  Comienza proceso en navegador WEB 
+23/08/25 18:03:44 El captcha no se resolvio se ejecutara nuevamente
+23/08/25 18:03:45  Comienza proceso en navegador WEB 
+23/08/25 18:04:24 No se pudo resolver el captcha - El proceso no se completo !!!!
+23/08/25 18:09:58  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 18:10:38  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 18:10:39  Comienza proceso en navegador WEB 
+23/08/25 18:10:52  Comienza solucion de captcha 
+23/08/25 18:10:56  Finalizacion de solucion de captcha 
+23/08/25 18:10:56 Inicia extraccion de tabla 
+23/08/25 18:11:30  Finaliza extraccion de tabla
+23/08/25 18:11:30 Inicia proceso para renombrar el archivo
+23/08/25 18:11:30 El archivo se renombro con exito !!
+23/08/25 18:11:30 Inicia proceso en DATATABLE
+23/08/25 18:11:31 Finaliza proceso en excel
+23/08/25 18:11:31 SubFlujo_ProcesarDataTable se ejecuto correctamente
+23/08/25 18:11:31 Inicia proceso envio correo
+23/08/25 18:11:31 Suma de valores encontrados
+23/08/25 18:11:33 Inicia el envio del correo electronico sin contactos
+23/08/25 18:11:35 Finalizo el envio del correo electronico sin contactos
+23/08/25 18:11:35El proceso finalizo en:  00:01:37.3894762
+23/08/25 18:11:35 El proceso a finalizado correctamente (100%) !!!!!
+23/08/25 19:28:41  Inicio de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 19:29:07  Finalizacion de llenado de informacion en cuadro de texto: APELLIDO, PROVINCIA, CORREO 
+23/08/25 19:29:08  Comienza proceso en navegador WEB 
+23/08/25 19:29:21  Comienza solucion de captcha 
+23/08/25 19:29:25  Finalizacion de solucion de captcha 
+23/08/25 19:29:25 Inicia extraccion de tabla 
+23/08/25 19:30:03  Finaliza extraccion de tabla
+23/08/25 19:30:04 Inicia proceso para renombrar el archivo
+23/08/25 19:30:04 El archivo se renombro con exito !!
+23/08/25 19:30:04 Inicia proceso en DATATABLE
+23/08/25 19:30:04 Finaliza proceso en excel
+23/08/25 19:30:04 SubFlujo_ProcesarDataTable se ejecuto correctamente
+23/08/25 19:30:05 Inicia proceso envio correo
+23/08/25 19:30:05 Suma de valores encontrados
+23/08/25 19:30:06 Inicia el envio del correo electronico
+23/08/25 19:30:09 Finalizo el envio del correo electronico
+23/08/25 19:30:09El proceso finalizo en:  00:01:31.5261058
+23/08/25 19:30:09 El proceso a finalizado correctamente (100%) !!!!!

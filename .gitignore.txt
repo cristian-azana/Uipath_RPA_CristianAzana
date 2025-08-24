@@ -1,8 +1,0 @@
-# UiPath
-*.local
-*.log
-*.cache
-project.lock.json
-bin/
-obj/
-.vs/

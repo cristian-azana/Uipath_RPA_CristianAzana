@@ -12,6 +12,7 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "timeInicio&Sequence_2",
         "Config&Sequence_2",
         "Config&Sequence_4"
       ],
@@ -20,7 +21,7 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "ProcesoCorreo.xaml",
+      "Path": "ProcesarCorreo.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "Config&Flowchart_1"
@@ -46,9 +47,10 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "MenuPrincipalNavegador.xaml",
+      "Path": "NavegadorWeb.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "mailsOperacion&Flowchart_1",
         "fin&Sequence_120",
         "Config&Flowchart_1"
       ],
@@ -60,6 +62,31 @@
       "Path": "Bot Error.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "IngresarDatos.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "timeInicio&Flowchart_1",
+        "in_Provincia&Flowchart_1",
+        "in_correo&Flowchart_1",
+        "in_Apellido&Flowchart_1",
+        "Config&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ProcesarDataTabla.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "rerun&Flowchart_1",
+        "Config&Flowchart_1"
+      ],
       "ArgumentsSectionElementsOrder": null,
       "ConstantsSectionElementsOrder": null,
       "AddedNamespaces": null
